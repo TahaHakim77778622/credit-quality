@@ -1,5 +1,4 @@
-import os
-import math
+
 
 
 def calculate_risk(income, debt, age):
